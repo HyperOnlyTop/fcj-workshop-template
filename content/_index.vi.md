@@ -38,4 +38,4 @@ chapter: false
 5.  [Project](5-Project/)
 6.  [Workshop](6-Workshop/)
 7. [Tự đánh giá](7-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+8.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
