@@ -8,5 +8,16 @@ pre: " <b> 4. </b> "
 
 
 
-Trong quá trình thực tập, em không có tham gia event nào, em đã có đăng ký các events và meeting nhưng không được duyệt vì nhiều lý do như hết slot và khóa đăng ký, em rất muốn được trải nghiệm các buổi event ạ. 
+Trong quá trình thực tập, em đã tham gia 1 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
+
+### [Event 1](4.1-Event1/)
+&emsp;**Tên sự kiện:** Cloud Architect x Meet Up 
+
+&emsp;**Thời gian:** 09:00 ngày 11/07/2026
+
+&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự 
+
+
 

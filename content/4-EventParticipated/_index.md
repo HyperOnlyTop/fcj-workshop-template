@@ -6,4 +6,18 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-During my internship, I did not participate in any events; although I registered for several events and meetings, my requests were not approved due to reasons such as full capacity or registration closures. I would really love the opportunity to experience these events.
+
+
+During my internship, I participated in one events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+
+### [Event 1](4.1-Event1/)  
+&emsp;**Event Name:** Cloud Architect x Meet Up  
+
+&emsp;**Date & Time:** 09:00, July 11, 2026  
+
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+
+&emsp;**Role:** Attendee  
+
+---
+
