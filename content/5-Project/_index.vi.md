@@ -12,6 +12,8 @@ Trong quá trình thực tập tại **AWS Study Group Vietnam (First Cloud Jour
 
 Dự án được chia thành các phần chức năng chuyên biệt dành cho từng nhóm đối tượng người dùng (Học viên/User, Quản trị viên/Admin, và Giáo viên/Teacher).
 
+Link dự án sau khi hoàn thành: https://auraacademic.site/
+
 ---
 
 ### 📑 Danh sách chi tiết các phần của dự án:

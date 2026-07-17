@@ -12,6 +12,8 @@ During my internship at **AWS Study Group Vietnam (First Cloud Journey - FCJ)**,
 
 The project is structured into specialized functional modules tailored for each user group (Students/User, Administrators/Admin, and Teachers/Teacher).
 
+Link to the completed project: https://auraacademic.site/
+
 ---
 
 ### 📑 Project Modules List:
